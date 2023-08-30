@@ -1,0 +1,87 @@
+.Button{
+    justify-content: center;
+    width: full;
+display: flex;
+align-items: center;
+padding-top: 300px;
+ 
+}
+.Small{
+    border: solid orange 2px;
+    padding: 3px;
+    font-size: x-large;
+}
+.Quiz{
+    justify-content: center;
+    width: full;
+display: flex;
+align-items: center;
+padding-top: 300px;
+
+ 
+}
+.Orange{
+    width: 40%;
+    min-height: 200px;
+    border: solid rgb(167, 164, 158) 2px;
+   box-shadow:5px ; 
+   
+}
+.Qs{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 30px;
+}
+.Grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px;
+ 
+  
+}
+
+
+.Opt1 {
+    border: solid rgb(146, 144, 144) 2px;
+
+}
+.Opt2 {
+    border: solid rgb(146, 144, 144) 2px;
+}
+.Opt3 {
+    border: solid rgb(146, 144, 144) 2px;
+}
+.Opt4 {
+    border: solid rgb(146, 144, 144) 2px;
+}
+.Opt1:hover {
+    background-color: rgb(78, 184, 226);
+    
+}
+.Opt2:hover {
+    background-color: rgb(78, 184, 226);
+}
+.Opt3:hover {
+    background-color: rgb(78, 184, 226);
+}
+.Opt4:hover {
+    background-color: rgb(78, 184, 226);
+}
+.Three{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+
+}
+.One{
+    background-color: red;
+    width: 20%;
+}
+.Two{
+    background-color: red;
+    width: 20%;
+}
+.Threee{
+    background-color: red;
+    width: 20%;
+}
